@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T08:01:28.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="izbsNzXWJj6d0QDCj0Ks" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T08:04:14.908Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="8vkR8_QkqfxTTWIYCcur" version="14.9.2" type="github">
   <diagram id="mZdlwU7jlDLjAiMPSqdT" name="Page-1">
-    <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,8 +191,8 @@
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.363;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-79" target="q9cqNyUcdMTlX4wkFxrB-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1230" y="860" />
-              <mxPoint x="1419" y="860" />
+              <mxPoint x="1790" y="860" />
+              <mxPoint x="1879" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -227,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-94" value="Customer&amp;nbsp;&lt;br&gt;liabiliity" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="485" y="660" width="80" height="80" as="geometry" />
+          <mxGeometry x="540" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.65;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-95" target="q9cqNyUcdMTlX4wkFxrB-99">
           <mxGeometry relative="1" as="geometry" />
@@ -265,6 +265,20 @@
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-107" value="Lifestyle" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="920" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-108" target="q9cqNyUcdMTlX4wkFxrB-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-108" target="q9cqNyUcdMTlX4wkFxrB-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-108" target="q9cqNyUcdMTlX4wkFxrB-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1040" />
+              <mxPoint x="730" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-108" value="Finances" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="540" y="920" width="80" height="80" as="geometry" />
         </mxCell>
@@ -279,6 +293,9 @@
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-120" value="Liquidity" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="690" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-124" value="Purchases&lt;br&gt;(TBD)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="920" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
