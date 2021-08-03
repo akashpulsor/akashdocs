@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T11:17:31.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="WeuAYuRWe1Bogi8Oi_Rb" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T11:23:32.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="YuDptPAlbc7_AhyZqRZX" version="14.9.2" type="github">
   <diagram id="mZdlwU7jlDLjAiMPSqdT" name="Page-1">
     <mxGraphModel dx="2840" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,8 +138,8 @@
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-30" value="CRM" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2855" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q9cqNyUcdMTlX4wkFxrB-34" value="Marketing/&lt;br&gt;Communication" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3110" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-34" value="payment" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-36" value="Channels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-890" y="480" width="100" height="80" as="geometry" />
@@ -159,8 +159,14 @@
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-49" value="Customer (360)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="710" y="480" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-52" target="q9cqNyUcdMTlX4wkFxrB-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-52" target="q9cqNyUcdMTlX4wkFxrB-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-52" value="Sales" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="3460" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-53" value="Product vertical" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1150" y="490" width="80" height="80" as="geometry" />
@@ -343,7 +349,7 @@
           <mxGeometry x="1060" y="940" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-102" value="Branding" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3550" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="3610" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-104" value="Docu&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Movable%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22540%22%20y%3D%22800%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;ment" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="810" y="950" width="80" height="80" as="geometry" />
@@ -582,7 +588,7 @@
           <mxGeometry x="2550" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-183" value="Complaince" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3250" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="3300" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9cqNyUcdMTlX4wkFxrB-190" target="q9cqNyUcdMTlX4wkFxrB-192">
           <mxGeometry relative="1" as="geometry" />
@@ -641,6 +647,21 @@
         </mxCell>
         <mxCell id="q9cqNyUcdMTlX4wkFxrB-214" value="ThirdParty" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3920" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-217" value="Sold product" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-218" value="Revenu" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3530" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-222" value="Marketing/&lt;br&gt;Communication" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4190" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-223" value="Marketing&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9cqNyUcdMTlX4wkFxrB-224" value="Communication" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
